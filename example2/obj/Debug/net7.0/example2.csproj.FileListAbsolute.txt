@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\bin\Debug\net7.0\example2.exe
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\bin\Debug\net7.0\example2.deps.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\bin\Debug\net7.0\example2.runtimeconfig.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\bin\Debug\net7.0\example2.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\bin\Debug\net7.0\example2.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\refint\example2.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\example2.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\example2\obj\Debug\net7.0\ref\example2.dll

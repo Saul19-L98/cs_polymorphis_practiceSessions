@@ -1,0 +1,5 @@
+C:\Users\salla\Documents\c#\Polymorphism_practice\exercise2\obj\Debug\net7.0\exercise2.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\exercise2\obj\Debug\net7.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\Polymorphism_practice\exercise2\obj\Debug\net7.0\exercise2.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\exercise2\obj\Debug\net7.0\exercise2.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\Polymorphism_practice\exercise2\obj\Debug\net7.0\exercise2.csproj.CoreCompileInputs.cache

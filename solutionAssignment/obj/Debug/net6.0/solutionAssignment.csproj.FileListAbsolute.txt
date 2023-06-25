@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\bin\Debug\net6.0\solutionAssignment.exe
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\bin\Debug\net6.0\solutionAssignment.deps.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\bin\Debug\net6.0\solutionAssignment.runtimeconfig.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\bin\Debug\net6.0\solutionAssignment.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\bin\Debug\net6.0\solutionAssignment.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\refint\solutionAssignment.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\solutionAssignment.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\solutionAssignment\obj\Debug\net6.0\ref\solutionAssignment.dll

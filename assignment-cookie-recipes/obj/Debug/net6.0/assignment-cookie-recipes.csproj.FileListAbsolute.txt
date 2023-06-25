@@ -1,0 +1,17 @@
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\assignment-cookie-recipes.exe
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\assignment-cookie-recipes.deps.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\assignment-cookie-recipes.runtimeconfig.json
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\assignment-cookie-recipes.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\assignment-cookie-recipes.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\refint\assignment-cookie-recipes.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.pdb
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\ref\assignment-cookie-recipes.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\salla\Documents\c#\Polymorphism_practice\assignment-cookie-recipes\obj\Debug\net6.0\assignment-cookie-recipes.csproj.CopyComplete
